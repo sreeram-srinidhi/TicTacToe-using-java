@@ -1,1 +1,2 @@
 # TicTacToe-using-java
+The Tic-Tac-Toe game is a classic two-player game where each player takes turns marking a 3x3 grid with their respective symbols—X and O. The objective is to be the first player to get three of their symbols in a row, either horizontally, vertically, or diagonally. If all nine squares are filled without a player achieving this, the game ends in a draw.It can also be extended with more advanced features such as a graphical user interface (GUI) using Java Swing or JavaFX.
